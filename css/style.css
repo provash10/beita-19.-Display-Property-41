@@ -1,0 +1,15 @@
+/* #wrapper{
+    display: none;
+} */
+
+/* #wrapper span{
+    background-color: red;
+    color:blue;
+} */
+
+#wrapper span{
+    background-color: red;
+    color:blue;
+    display: block;
+}
+

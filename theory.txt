@@ -1,0 +1,21 @@
+Display common Property
+1. display none
+2. display inline
+3. display block
+========================
+
+/* #wrapper{
+    display: none;
+} */
+
+/* #wrapper span{
+    background-color: red;
+    color:blue;
+} */
+
+#wrapper span{
+    background-color: red;
+    color:blue;
+    display: block;
+}
+
